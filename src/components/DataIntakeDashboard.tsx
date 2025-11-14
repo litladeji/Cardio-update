@@ -477,7 +477,7 @@ export function DataIntakeDashboard() {
                     <div>
                       <p className="text-gray-600 mb-1">Data Completeness</p>
                       <p className="text-4xl bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">
-                        {metrics.dataCompleteness}%
+                        {metrics.dataCompleteness}
                       </p>
                       <p className="text-sm text-gray-600 mt-1">With vital signs</p>
                     </div>
@@ -511,7 +511,7 @@ export function DataIntakeDashboard() {
                     <div>
                       <p className="text-gray-600 mb-1">SMS Engagement</p>
                       <p className="text-4xl bg-gradient-to-r from-orange-600 to-amber-600 bg-clip-text text-transparent">
-                        {metrics.smsEngagementRate}%
+                        {metrics.smsEngagementRate}
                       </p>
                       <p className="text-sm text-gray-600 mt-1">Response rate</p>
                     </div>
