@@ -179,7 +179,7 @@ export default function App() {
                     </div>
                   </div>
                   <div>
-                    <h2 className="text-xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">CardioGuard AI</h2>
+                    <h2 className="text-xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">Continuum Care</h2>
                     <p className="text-sm text-gray-600">{userRole === 'admin' ? 'Administrator Portal' : 'Clinician Portal'}</p>
                   </div>
                 </div>
@@ -334,7 +334,7 @@ export default function App() {
           <div className="max-w-7xl mx-auto px-6 py-6">
             <div className="flex flex-col md:flex-row items-center justify-between gap-4">
               <div className="text-sm text-gray-600">
-                <p>CardioGuard AI - Post-Discharge Heart Patient Risk Management</p>
+                <p>Continuum Care - Post-Discharge Heart Patient Risk Management</p>
                 <p className="text-xs mt-1">
                   ⚠️ Prototype for demonstration purposes only. Not for clinical use. 
                   Not HIPAA compliant or FDA cleared.
