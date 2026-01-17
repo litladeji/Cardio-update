@@ -81,7 +81,7 @@ export function ClinicianLogin({ onLogin, onBackToHome }: ClinicianLoginProps) {
               <Stethoscope className="w-12 h-12 text-white" />
             </div>
             <h1 className="text-5xl font-bold bg-gradient-to-r from-teal-600 via-cyan-600 to-blue-600 bg-clip-text text-transparent">
-              CardioGuard
+              Continuum Care
             </h1>
           </div>
           <p className="text-gray-700 text-2xl font-bold mb-2">
@@ -191,7 +191,7 @@ export function ClinicianLogin({ onLogin, onBackToHome }: ClinicianLoginProps) {
 
         {/* Footer */}
         <div className="mt-10 text-center text-gray-600 animate-in fade-in duration-1000">
-          <p className="text-base font-semibold mb-2">© 2025 CardioGuard. Saving lives through predictive analytics and proactive care.</p>
+          <p className="text-base font-semibold mb-2">© 2025 Continuum Care. Saving lives through predictive analytics and proactive care.</p>
           <p className="text-sm text-gray-500">
             HIPAA Compliant | SOC 2 Certified | HL7 FHIR R4 Compatible
           </p>
