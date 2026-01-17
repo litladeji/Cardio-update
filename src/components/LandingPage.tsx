@@ -16,7 +16,7 @@ export function LandingPage({ onSelectPortal }: LandingPageProps) {
             <Heart className="w-14 h-14 text-white" fill="white" />
           </div>
           <h1 className="text-6xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-            CardioGuard
+            Continuum Care
           </h1>
         </div>
         <p className="text-gray-700 text-2xl font-semibold mb-3">
@@ -161,7 +161,7 @@ export function LandingPage({ onSelectPortal }: LandingPageProps) {
       {/* Why CardioGuard Section - Redesigned */}
       <div className="max-w-7xl mx-auto px-4 py-16">
         <h3 className="text-center text-4xl font-bold text-gray-900 mb-4">
-          Why CardioGuard?
+          Why Continuum Care?
         </h3>
         <p className="text-center text-lg text-gray-600 mb-12 max-w-2xl mx-auto">
           Proven results in reducing readmissions and improving patient outcomes through AI-driven care management
@@ -233,7 +233,7 @@ export function LandingPage({ onSelectPortal }: LandingPageProps) {
       {/* Footer */}
       <div className="text-center pb-12 px-4 pt-8">
         <p className="text-base text-gray-700 font-semibold mb-2">
-          © 2025 CardioGuard. Saving lives through predictive analytics and proactive care.
+          © 2025 Continuum Care. Saving lives through predictive analytics and proactive care.
         </p>
         <p className="text-sm text-gray-600 mb-4">
           HIPAA Compliant | SOC 2 Certified | HL7 FHIR R4 Compatible
