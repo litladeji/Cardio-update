@@ -79,7 +79,7 @@ export function Login({ onLogin }: LoginProps) {
               <Heart className="w-10 h-10 text-white" fill="white" />
             </div>
             <h1 className="text-4xl bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-              CardioGuard
+              Continuum Care
             </h1>
           </div>
           <p className="text-gray-600 text-lg">
@@ -171,7 +171,7 @@ export function Login({ onLogin }: LoginProps) {
 
         {/* Footer */}
         <div className="mt-8 text-center text-sm text-gray-600 animate-in fade-in duration-1000">
-          <p>© 2025 CardioGuard. Saving lives through predictive analytics and proactive care.</p>
+          <p>© 2025 Continuum Care. Saving lives through predictive analytics and proactive care.</p>
           <p className="mt-2 text-xs text-gray-500">
             HIPAA Compliant | SOC 2 Certified | HL7 FHIR R4 Compatible
           </p>
